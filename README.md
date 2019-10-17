@@ -1,6 +1,6 @@
 ## How to get compass data in mobile web browser
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <body>
