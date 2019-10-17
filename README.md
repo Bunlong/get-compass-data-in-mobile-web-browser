@@ -1,4 +1,4 @@
-## How to get compass data in mobile web browser
+# How to get compass data in mobile web browser
 
 ```html
 <!DOCTYPE html>
@@ -31,7 +31,7 @@
 </html>
 ```
 
-## Reference
+# Reference
 
 * [https://developers.google.com](https://developers.google.com/web/fundamentals/native-hardware/device-orientation?fbclid=IwAR3SWExp5zIz1_4Qyr3_fKeqIEEwDUNJIk0snh3e_MtzgHAWkBWS_hWPqC4)
 * [https://www.sitepoint.com](https://www.sitepoint.com/using-device-orientation-html5/?fbclid=IwAR02oFkKkUaZS6a0wTZTicpgnEkaHJ9uu2HYWrhXF5fbkX_nP2eRFkaL-nY)
